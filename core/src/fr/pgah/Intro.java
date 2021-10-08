@@ -99,7 +99,7 @@ public class Intro extends ApplicationAdapter {
       y[i] = y[i]+val2[i];
     }
   }
-  //COUCOU
+  //
 
   private void reinitialiserBackground() {
     ScreenUtils.clear(1,0, 0, 1);
